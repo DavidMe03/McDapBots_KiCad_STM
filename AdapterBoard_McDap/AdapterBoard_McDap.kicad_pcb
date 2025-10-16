@@ -1348,39 +1348,6 @@
 				)
 			)
 		)
-		(dimension
-			(type aligned)
-			(layer "F.Fab")
-			(uuid "fd8c70c8-4b96-4326-a781-1c6a0d135cff")
-			(pts
-				(xy 58.5828 93.68) (xy 130.9728 93.68)
-			)
-			(height -15.565)
-			(gr_text "72.3900 mm"
-				(at 94.7778 77.015 0)
-				(layer "F.Fab")
-				(uuid "fd8c70c8-4b96-4326-a781-1c6a0d135cff")
-				(effects
-					(font
-						(size 1 1)
-						(thickness 0.1)
-					)
-				)
-			)
-			(format
-				(prefix "")
-				(suffix "")
-				(units 3)
-				(units_format 1)
-				(precision 4)
-			)
-			(style
-				(thickness 0.1)
-				(arrow_length 1.27)
-				(text_position_mode 0)
-				(extension_height 0.58642)
-				(extension_offset 0.5) keep_text_aligned)
-		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x19_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -3200,28 +3167,16 @@
 		(layer "Edge.Cuts")
 		(uuid "30cd2130-6225-4c72-bcd7-b49751484a2f")
 	)
-	(gr_text "Keep this spacing the same for STM Header Pins\n"
-		(at 205.74 73.66 0)
-		(layer "Dwgs.User")
-		(uuid "5c26d448-5594-43da-85cd-5c01fbb40680")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom)
-		)
-	)
 	(dimension
 		(type aligned)
 		(layer "Dwgs.User")
 		(uuid "bdd7d2b9-dda6-49cc-a03e-4a460f18e8c2")
 		(pts
-			(xy 190.5 81.28) (xy 254 81.28)
+			(xy 64.75 84.33) (xy 128.25 84.33)
 		)
 		(height -10.16)
 		(gr_text "63.5000 mm"
-			(at 222.25 69.97 0)
+			(at 96.5 73.02 0)
 			(layer "Dwgs.User")
 			(uuid "bdd7d2b9-dda6-49cc-a03e-4a460f18e8c2")
 			(effects
