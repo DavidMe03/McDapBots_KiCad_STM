@@ -43,10 +43,10 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(grid_origin 60.96 135.89)
 		(pcbplotparams
-			(layerselection 0x00010fc_ffffffff)
+			(layerselection 0x00010e0_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
@@ -75,9 +75,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "AdapterBoard_Gerbers")
 		)
 	)
 	(net 0 "")
@@ -177,7 +177,7 @@
 		(uuid "045285ea-3e4c-46ac-8f1b-88395098304e")
 		(at 98.298 96.52)
 		(property "Reference" "G***"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "1678ec3b-3f58-434a-9573-5566fee373de")
@@ -189,7 +189,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 0.75 0 360)
+			(at 0.75 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a55ec680-f50d-4c95-a734-ecbb91cab63c")
@@ -201,7 +201,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "99cbe362-1111-434c-99b1-88ef82416a2a")
@@ -213,7 +213,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "657b5eb4-d0ed-4860-bdaf-24a11791515e")
@@ -225,7 +225,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3357ec2f-5b78-4726-893e-76331f14685e")
@@ -3675,7 +3675,7 @@
 			(xy 64.75 84.33) (xy 128.25 84.33)
 		)
 		(height -10.16)
-		(gr_text "63.5000 mm"
+		(gr_text "2500.0000 mils"
 			(at 96.5 73.02 0)
 			(layer "Dwgs.User")
 			(uuid "bdd7d2b9-dda6-49cc-a03e-4a460f18e8c2")

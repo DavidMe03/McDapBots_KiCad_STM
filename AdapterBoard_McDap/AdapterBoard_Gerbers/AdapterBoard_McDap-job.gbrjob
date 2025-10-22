@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.8"
+      "Version": "8.0.7"
     },
-    "CreationDate": "2025-10-21T14:25:37-04:00"
+    "CreationDate": "2025-10-21T15:09:44-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,32 +34,32 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "AdapterBoard_McDap-F_Cu.gbr",
+      "Path": "AdapterBoard_McDap-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "AdapterBoard_McDap-B_Cu.gbr",
+      "Path": "AdapterBoard_McDap-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "AdapterBoard_McDap-F_Silkscreen.gbr",
+      "Path": "AdapterBoard_McDap-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "AdapterBoard_McDap-F_Mask.gbr",
+      "Path": "AdapterBoard_McDap-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "AdapterBoard_McDap-B_Mask.gbr",
+      "Path": "AdapterBoard_McDap-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "AdapterBoard_McDap-Edge_Cuts.gbr",
+      "Path": "AdapterBoard_McDap-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
