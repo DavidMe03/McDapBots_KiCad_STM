@@ -19,6 +19,11 @@ This project was created as a capstone project for the University of Virginia De
 ## What is contained here
 STM32 adapter board for the McDap pedalogical robot. Used to reroute the pins of the main board to the STM Nucleo-G071RB
 
+**Bill of Materials Files**
+
+BOM.xlsx contains a list of all the parts needed for to add the reflectance sensor as a feature to the robot.
+Digikey_Parts_List.xlsx can be uploaded to Digikey to select the parts needed for one copy of this board.
+
 ## How to use this repository
 1. Copy the repository locally to your computer
 2. Using KiCad 8.0 (or higher version) open the file `AdapterBoard_McDap.kicad_pro`
