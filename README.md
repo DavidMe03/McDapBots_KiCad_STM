@@ -21,7 +21,7 @@ STM32 adapter board for the McDap pedalogical robot. Used to reroute the pins of
 
 **Bill of Materials Files**
 
-BOM.xlsx contains a list of all the parts needed for to add the reflectance sensor as a feature to the robot.
+BOM.xlsx contains a list of all the parts needed for the STM Adapter Board.
 Digikey_Parts_List.xlsx can be uploaded to Digikey to select the parts needed for one copy of this board.
 
 ## How to use this repository
