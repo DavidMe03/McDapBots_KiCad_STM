@@ -22,10 +22,11 @@ STM32 adapter board for the McDap pedalogical robot. Used to reroute the pins of
 **Bill of Materials Files**
 
 BOM.xlsx contains a list of all the parts needed for the STM Adapter Board.
+
 Digikey_Parts_List.xlsx can be uploaded to Digikey to select the parts needed for one copy of this board.
 
 ## How to use this repository
 1. Copy the repository locally to your computer
 2. Using KiCad 8.0 (or higher version) open the file `AdapterBoard_McDap.kicad_pro`
-3. Generate necessary gerber files and orde components
+3. Generate necessary gerber files and order components
 4. Follow the provided construction guide to build the robot
